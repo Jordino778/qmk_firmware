@@ -51,8 +51,6 @@
 
 #    if defined(RGB_MATRIX_ENABLE) || defined(LED_MATRIX_ENABLE)
 
-#	 define NUM_LOCK_INDEX 37  // NumLock indicator
-
 #        define LED_DRIVER_SHUTDOWN_PIN B7
 
 #        define BT_HOST_LED_MATRIX_LIST \
